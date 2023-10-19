@@ -78,3 +78,7 @@ footer {
         padding-top: 3em;
     }
 }
+#pacotes{
+    justify-content: center !important;
+    color: blue !important;
+}
